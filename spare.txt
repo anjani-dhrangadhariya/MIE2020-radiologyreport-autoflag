@@ -1,0 +1,16 @@
+\begin{table}[h]
+\linespread{0.8}\selectfont\centering
+\centering
+  \begin{tabular}{ |p{4.5cm}||p{2.5cm}|p{2.5cm}|  }
+  \hline
+  Indication Conclusion (Concordance)     &Human evaluation &Automatic evaluation\\
+  \hline
+  \hline
+  Anatomy    &   61\%    & 45\%\\
+  Disease    &   88\%    & 80\%\\
+  \hline
+  \end{tabular}
+ \vspace{0.5em}
+ \caption{Comparison for automatic and manual overall concordance assessment between indication and conclusion sections for all the reports in the data set (see Section~\ref{dataset}).}
+ \label{tab1:concordance}
+\end{table}
